@@ -116,6 +116,11 @@
 
 - 단점 : 성능이 다소 떨어짐
 
+![https://media.discordapp.net/attachments/863134400963149898/866314991031418940/tfile.png](https://media.discordapp.net/attachments/863134400963149898/866314991031418940/tfile.png)
+> 출처 : 위키피디아
+> https://ko.wikipedia.org/wiki/%EA%B4%80%EA%B3%84%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4
+
+
 **#18_계층형 데이터 모델**
 
 - 데이터의 논리적 구조도가 트리 형태이며, 개체가 트리를 구성하는 노드 역할을 함
@@ -141,6 +146,11 @@
 ㆍ속성 관계(Attribute Relation) : 세그먼트(개체)를 구성하는 속성들의 관계
 
 ㆍ개체 관계(Entity Relation) : 개체와 개체간의 관계를 링크로 표시
+
+![https://media.discordapp.net/attachments/863134400963149898/866314697746022470/tfile.png](https://media.discordapp.net/attachments/863134400963149898/866314697746022470/tfile.png)
+> 출처 : 위키피디아
+> https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EA%B5%AC%EC%A1%B0
+
 
 **#19_망(그래프)형 데이터 모델**
 
