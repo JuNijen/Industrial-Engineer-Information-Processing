@@ -1,3 +1,7 @@
+## Main Page
+[메인 페이지](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/0_Main-Page)
+
+
 ### 4. 트랙잭션의 특성 중 “all or nothing”, 즉 트랙잭션의 연산은 데이터베이스에 모두 반영되든지 아니면 전혀 반영되지 않아야 함을 의미하는 특성은?
 > consistency
 
