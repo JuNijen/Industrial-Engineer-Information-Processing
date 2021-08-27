@@ -13,20 +13,35 @@ Second Goal  : 2021/10/16/SAT~2021/10/29/FRI
 시험 가서 틀리는 거 보다 여기서 실컷 틀리는 게 낫다! 실컷 틀려보자 | ᐕ)⁾
 
 
+# 필기
 ## 1과목
-[데이터베이스](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/필기_1과목 - 데이터베이스)
+[데이터베이스](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%ED%95%84%EA%B8%B0_1%EA%B3%BC%EB%AA%A9---%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
  
 ## 2과목
-[전자계산기 구조](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/필기_2과목 - 전자계산기 구조)
+[전자계산기 구조](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%ED%95%84%EA%B8%B0_2%EA%B3%BC%EB%AA%A9---%EC%A0%84%EC%9E%90%EA%B3%84%EC%82%B0%EA%B8%B0-%EA%B5%AC%EC%A1%B0)
 
 ## 3과목
-[운영체제](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/필기_3과목 - 운영체제)
+[운영체제](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%ED%95%84%EA%B8%B0_3%EA%B3%BC%EB%AA%A9---%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
 
 ## 4과목
-[시스템 분석 및 설계](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/필기_4과목 - 시스템 분석 및 설계.md)
+[시스템 분석 및 설계](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%ED%95%84%EA%B8%B0_4%EA%B3%BC%EB%AA%A9---%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EC%84%A4%EA%B3%84)
 
 ## 5과목
-[정보 통신 개론](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/필기_5과목 - 정보 통신 개론)
+[정보 통신 개론](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%ED%95%84%EA%B8%B0_5%EA%B3%BC%EB%AA%A9---%EC%A0%95%EB%B3%B4-%ED%86%B5%EC%8B%A0-%EA%B0%9C%EB%A1%A0)
+
+
+# 실기
+## 1과목
+[실무 알고리즘 일반](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%EC%8B%A4%EA%B8%B0_1%EA%B3%BC%EB%AA%A9---%EC%8B%A4%EB%AC%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%BC%EB%B0%98)
+ 
+## 2과목
+[데이터베이스 실무 일반](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%EC%8B%A4%EA%B8%B0_2%EA%B3%BC%EB%AA%A9---%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%8B%A4%EB%AC%B4-%EC%9D%BC%EB%B0%98)
+
+## 3과목
+[업무 프로세스 실무 일반](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%EC%8B%A4%EA%B8%B0_3%EA%B3%BC%EB%AA%A9---%EC%97%85%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%8B%A4%EB%AC%B4-%EC%9D%BC%EB%B0%98)
+
+## 4과목
+[IT 신기술 동향 및 시스템 관리, 전산 영어](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%EC%8B%A4%EA%B8%B0_4%EA%B3%BC%EB%AA%A9---IT-%EC%8B%A0%EA%B8%B0%EC%88%A0-%EB%8F%99%ED%96%A5-%EB%B0%8F-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B4%80%EB%A6%AC,-%EC%A0%84%EC%82%B0-%EC%98%81%EC%96%B4)
 
 
 # TODO :: issue 참고, 검색 이용하기!
