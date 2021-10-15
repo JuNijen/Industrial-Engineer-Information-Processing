@@ -1,3 +1,7 @@
+실기 2과목 페이지
+[데이터베이스 실무 일반](https://github.com/JuNijen/Industrial-Engineer-Information-Processing/wiki/%EC%8B%A4%EA%B8%B0_2%EA%B3%BC%EB%AA%A9---%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%8B%A4%EB%AC%B4-%EC%9D%BC%EB%B0%98)
+
+
 # #069. SQL - DDL
 DDL은 스키마(Schema), 도메인(Domain), 테이블(Table), 뷰(View), 인덱스(Index)를 정의하거나 변경 또는 제거할 때 사용하는 언어이다.
 DDL로 정의된 내용은 메타데이터(Metadata)가 되며, 시스템  카탈로그(Ststem Catalog)에 저장한다.
