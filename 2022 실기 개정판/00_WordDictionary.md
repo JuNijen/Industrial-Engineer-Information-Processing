@@ -14,8 +14,11 @@ ARP | Address Resolution Protocol | 주소 분석 프로토콜
 
 ### D
 DCE
+DCL | Data Control Language | 데이터 제어어
+DDL | Data Define Language | 데이터 정의어
 DTE
 DNS | Domain Name System
+DML | Data Manipulation Language | 데이터 조작어
 
 
 ### E
@@ -35,6 +38,7 @@ HTTP | HyperText Transfer Protocol
 
 
 ### I
+IDE | Integrated Development Environment | 통합 개발 환경
 IEEE 802 | LAN을 위한 표준 프로토콜
 ICMP | Internet Control Message Protocol | 인터넷 제어 메시지 프로토콜
 IGMP | Internet Group Management Protocol | 인터넷 그룹 관리 프로토콜
@@ -85,6 +89,8 @@ TELNET
 
 ### U
 UDP | User Datagram Protocol
+UI | User Interface
+UX | User Experience
 
 
 ### V
